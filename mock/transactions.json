@@ -9,8 +9,8 @@
           "amount": 5000,
           "currencyCode": "EUR"
         },
-        "description": "Salary Backbase",
-        "type": "Salaries"
+        "type": "Salaries",
+        "creditDebitIndicator": "CRDT"
       },
       "merchant": {
         "name": "Backbase",
@@ -26,7 +26,8 @@
           "amount": "82.02",
           "currencyCode": "EUR"
         },
-        "type": "Card Payment"
+        "type": "Card Payment",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "The Tea Lounge",
@@ -42,7 +43,8 @@
           "amount": "84.64",
           "currencyCode": "EUR"
         },
-        "type": "Card Payment"
+        "type": "Card Payment",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "Texaco",
@@ -58,7 +60,8 @@
           "amount": "84.76",
           "currencyCode": "EUR"
         },
-        "type": "Card Payment"
+        "type": "Card Payment",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "The Tea Lounge",
@@ -74,7 +77,8 @@
           "amount": "22.10",
           "currencyCode": "EUR"
         },
-        "type": "Online Transfer"
+        "type": "Online Transfer",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "Amazon Online Store",
@@ -90,7 +94,8 @@
           "amount": "46.25",
           "currencyCode": "EUR"
         },
-        "type": "Card Payment"
+        "type": "Card Payment",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "7-Eleven",
@@ -122,7 +127,8 @@
           "amount": "68.87",
           "currencyCode": "EUR"
         },
-        "type": "Transaction"
+        "type": "Transaction",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "Jerry Hildreth",
@@ -138,7 +144,8 @@
           "amount": "52.36",
           "currencyCode": "EUR"
         },
-        "type": "Transaction"
+        "type": "Transaction",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "Lawrence Pearson",
@@ -154,7 +161,8 @@
           "amount": "75.93",
           "currencyCode": "EUR"
         },
-        "type": "Card Payment"
+        "type": "Card Payment",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "Whole Foods",
@@ -170,7 +178,8 @@
           "amount": "142.95",
           "currencyCode": "EUR"
         },
-        "type": "Online Transfer"
+        "type": "Online Transfer",
+        "creditDebitIndicator": "DBIT"
       },
       "merchant": {
         "name": "Southern Electric Company",
