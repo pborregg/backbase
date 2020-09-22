@@ -2,7 +2,7 @@
   "data": [{
       "categoryCode": "#12a580",
       "dates": {
-        "valueDate": "2020-06-25"
+        "valueDate": 1600493600000
       },
       "transaction": {
         "amountCurrency": {
@@ -19,7 +19,7 @@
     }, {
       "categoryCode": "#12a580",
       "dates": {
-        "valueDate": "1476933842000"
+        "valueDate": 1600387200000
       },
       "transaction": {
         "amountCurrency": {
@@ -36,7 +36,7 @@
     }, {
       "categoryCode": "#d51271",
       "dates": {
-        "valueDate": 1476926642000
+        "valueDate": "2020-09-19"
       },
       "transaction": {
         "amountCurrency": {
@@ -53,7 +53,7 @@
     }, {
       "categoryCode": "#12a580",
       "dates": {
-        "valueDate": 1476840242000
+        "valueDate": 1600300800000
       },
       "transaction": {
         "amountCurrency": {
@@ -70,7 +70,7 @@
     }, {
       "categoryCode": "#c12020",
       "dates": {
-        "valueDate": 1476836642000
+        "valueDate": 1600370800000
       },
       "transaction": {
         "amountCurrency": {
@@ -87,7 +87,7 @@
     }, {
       "categoryCode": "#c89616",
       "dates": {
-        "valueDate": 1476782642000
+        "valueDate": 1600214400000
       },
       "transaction": {
         "amountCurrency": {
@@ -120,7 +120,7 @@
     }, {
       "categoryCode": "#1180aa",
       "dates": {
-        "valueDate": 1476635042000
+        "valueDate": "2020-09-15"
       },
       "transaction": {
         "amountCurrency": {
@@ -137,7 +137,7 @@
     }, {
       "categoryCode": "#1180aa",
       "dates": {
-        "valueDate": 1476548642000
+        "valueDate": 1600041600000
       },
       "transaction": {
         "amountCurrency": {
@@ -154,7 +154,7 @@
     }, {
       "categoryCode": "#12a580",
       "dates": {
-        "valueDate": 1476548642000
+        "valueDate": 1599955200000
       },
       "transaction": {
         "amountCurrency": {
@@ -171,7 +171,7 @@
     }, {
       "categoryCode": "#fbbb1b",
       "dates": {
-        "valueDate": 1476455042000
+        "valueDate": 1599868800000
       },
       "transaction": {
         "amountCurrency": {
