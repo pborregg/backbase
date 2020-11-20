@@ -9,6 +9,7 @@ import { CallbackComponent } from './pages/callback/callback.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { BreadcrumbComponent } from './breadcrumb/breadcrumb.component';
+import { BankingDetailsComponent } from './banking-details/banking-details.component';
 
 // We may be missing a route...
 const ROUTES = [
@@ -38,14 +39,15 @@ const ROUTES = [
 ];
 
 @NgModule({
-  declarations: [
+  declarations: [	
     AppComponent,
     BankingComponent,
     LoginComponent,
     BreadcrumbComponent,
     CallbackComponent,
-    BannerComponent
-  ],
+    BannerComponent,
+      BankingDetailsComponent
+   ],
   imports: [
     BrowserModule,
     RouterModule.forRoot(ROUTES, { useHash: true }),

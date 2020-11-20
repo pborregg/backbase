@@ -1,8 +1,14 @@
 #peaches {
     width: 50%;
     height: 50%;
-    top: 40px;
+    top: -8px;
     position: relative;
+}
+
+.jumboadjust {
+    height: 82px;
+    border-bottom: 1px solid #939393;
+    background-color: #fff;
 }
 
 .logout {
